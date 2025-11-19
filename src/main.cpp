@@ -2,7 +2,7 @@
 #include <inttypes.h>
 #include <logger.h>
 
-MYMOD(SCAndSkip, SCAndSkip, 1.0, DeviceBlack)
+MYMOD(SCAndSkip, SCAndSkip, 1.2, DeviceBlack)
 
 //------------------------//
 // Global variables
