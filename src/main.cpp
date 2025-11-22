@@ -3,7 +3,7 @@
 #include <inttypes.h>
 #include <jni.h>
 
-MYMOD(Test.Mod, Test Mod, 1, DeviceBlack)
+MYMOD(com.deviceblack.gtasa.SCAndSkip, SCAndSkip, 1.3, DeviceBlack)
 
 void* h_libSCAnd = nullptr;
 

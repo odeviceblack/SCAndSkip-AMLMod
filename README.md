@@ -1,5 +1,10 @@
 # SCAndSkip-AMLMod
 
+![Downloads](https://img.shields.io/github/downloads/odeviceblack/SCAndSkip-AMLMod/total.svg)
+![Latest Tag](https://img.shields.io/github/v/tag/odeviceblack/SCAndSkip-AMLMod)
+![armeabi-v7a](https://img.shields.io/badge/armeabi--v7a-available-brightgreen)
+![arm64-v8a](https://img.shields.io/badge/arm64--v8a-available-brightgreen)
+
 SCAndSkip is a mod for GTA San Andreas Android that automatically skips the EULA and Social Club login, launching directly from the main menu.
 
 ![Demonstration](media/video.gif)
